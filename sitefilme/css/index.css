@@ -1,0 +1,105 @@
+@media screen and (max-width: 992px) {
+    .carousel-item img {
+        width: 80%;
+        padding-left: 20%;
+    }
+
+    .container-info {
+        margin-top: 10%;
+        padding-left: 10%;
+        margin-right: 18%;
+        margin-bottom: 10%;
+    }
+
+    #review {
+        font-size: 15px;
+    }
+
+    #reviews {
+        display: flex !important;
+        flex-direction: column;
+        align-content: center;
+    }
+
+    #reviewscol {
+        width: auto;
+    }
+    
+    #destaques {
+        display: flex !important;
+        flex-direction: column;
+        align-content: center;
+    }
+
+    #destaque {
+        width: auto;
+        margin-bottom: 25px;
+    }
+
+    #destaque1 {
+        margin-top: 25px;
+    }
+
+    #anuncios {
+        display: flex !important;
+        flex-direction: column;
+        align-content: center;
+    }
+
+    #filme {
+        width: auto;
+    }
+}
+
+#cartaz {
+    width: 80%;
+    align-self: center;
+    height: 100%;
+    max-height: 400px;
+    height: 400px;
+    margin-top: 20px;
+    
+}
+
+
+#search-button {
+    margin-right: 30px;
+}
+
+#footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: lightgray;
+}
+
+#footertxt {
+    margin:auto;
+}
+
+#destaques {
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.movie {
+    flex-basis: 33.333333%;
+}
+
+#destaque {
+    width: 100%;
+}
+
+#details {
+    margin: 20px;
+}
+
+#card {
+    height: 800px;
+    margin-bottom: 25px;
+}
+
+#sinopse {
+    font-size: 12px;
+}
